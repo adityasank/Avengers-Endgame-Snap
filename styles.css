@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ddd;
+  }
+  .content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #ddd;
+  }
+#start-btn {
+    
+    padding: 20px 40px 20px 80px ;
+    margin-top: 30px;
+    align-content: center;
+    border-radius: 10px;
+    background: rgb(221, 221, 221) 15px no-repeat;
+    background-size: 25px;
+  
+ }
+  .dust {
+    position: absolute;
+  }
